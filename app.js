@@ -3,7 +3,7 @@ const fs = require('fs');
 const userData = require('./user.js');
 
 console.log(userData)
-
+console.log('hey')
 let user = os.userInfo();
 let date = new Date();
 

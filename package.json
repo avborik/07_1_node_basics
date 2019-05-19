@@ -1,0 +1,23 @@
+{
+  "name": "07_1node_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avborik/07_1_node_basics.git"
+  },
+  "keywords": [
+    "Boris",
+    "Avdeev"
+  ],
+  "author": "Boris Avdeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avborik/07_1_node_basics/issues"
+  },
+  "homepage": "https://github.com/avborik/07_1_node_basics#readme"
+}
